@@ -1,0 +1,12 @@
+[rospy.client][INFO] 2023-02-03 02:10:51,617: init_node, name[/rostopic_6409_1675408251601], pid[6409]
+[xmlrpc][INFO] 2023-02-03 02:10:51,618: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-02-03 02:10:51,619: Started XML-RPC server [http://mrmunda-VirtualBox:43855/]
+[rospy.impl.masterslave][INFO] 2023-02-03 02:10:51,619: _ready: http://mrmunda-VirtualBox:43855/
+[rospy.registration][INFO] 2023-02-03 02:10:51,619: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-02-03 02:10:51,619: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-02-03 02:10:51,620: ROS Slave URI: [http://mrmunda-VirtualBox:43855/]
+[rospy.init][INFO] 2023-02-03 02:10:51,620: registered with master
+[rospy.rosout][INFO] 2023-02-03 02:10:51,620: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-02-03 02:10:51,621: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-02-03 02:10:51,621: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-02-03 02:10:51,728: topic[/rosout] adding connection to [/rosout], count 0

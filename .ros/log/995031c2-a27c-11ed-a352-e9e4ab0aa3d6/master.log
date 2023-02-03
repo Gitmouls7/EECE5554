@@ -1,0 +1,14 @@
+[rosmaster.main][INFO] 2023-02-01 17:05:55,931: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-02-01 17:05:55,931: Starting ROS Master Node
+[xmlrpc][INFO] 2023-02-01 17:05:55,932: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-02-01 17:05:55,932: Started XML-RPC server [http://mrmunda-VirtualBox:11311/]
+[xmlrpc][INFO] 2023-02-01 17:05:55,932: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-02-01 17:05:55,933: Master initialized: port[11311], uri[http://mrmunda-VirtualBox:11311/]
+[rosmaster.master][INFO] 2023-02-01 17:05:56,001: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-02-01 17:05:56,001: +PARAM [/roslaunch/uris/host_mrmunda_virtualbox__43141] by /roslaunch
+[rosmaster.master][INFO] 2023-02-01 17:05:56,125: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-02-01 17:05:56,125: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-02-01 17:05:56,324: +SERVICE [/rosout/get_loggers] /rosout http://mrmunda-VirtualBox:37407/
+[rosmaster.master][INFO] 2023-02-01 17:05:56,324: +SERVICE [/rosout/set_logger_level] /rosout http://mrmunda-VirtualBox:37407/
+[rosmaster.master][INFO] 2023-02-01 17:05:56,325: +PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:37407/
+[rosmaster.master][INFO] 2023-02-01 17:05:56,329: +SUB [/rosout] /rosout http://mrmunda-VirtualBox:37407/

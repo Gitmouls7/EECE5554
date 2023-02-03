@@ -1,0 +1,21 @@
+[rosmaster.main][INFO] 2023-02-02 20:37:26,479: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-02-02 20:37:26,479: Starting ROS Master Node
+[xmlrpc][INFO] 2023-02-02 20:37:26,480: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-02-02 20:37:26,480: Started XML-RPC server [http://mrmunda-VirtualBox:11311/]
+[xmlrpc][INFO] 2023-02-02 20:37:26,480: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-02-02 20:37:26,480: Master initialized: port[11311], uri[http://mrmunda-VirtualBox:11311/]
+[rosmaster.master][INFO] 2023-02-02 20:37:26,532: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-02-02 20:37:26,532: +PARAM [/roslaunch/uris/host_mrmunda_virtualbox__36037] by /roslaunch
+[rosmaster.master][INFO] 2023-02-02 20:37:26,566: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-02-02 20:37:26,566: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-02-02 20:37:26,579: +SERVICE [/rosout/get_loggers] /rosout http://mrmunda-VirtualBox:45001/
+[rosmaster.master][INFO] 2023-02-02 20:37:26,579: +SERVICE [/rosout/set_logger_level] /rosout http://mrmunda-VirtualBox:45001/
+[rosmaster.master][INFO] 2023-02-02 20:37:26,579: +PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:45001/
+[rosmaster.master][INFO] 2023-02-02 20:37:26,580: +SUB [/rosout] /rosout http://mrmunda-VirtualBox:45001/
+[rosmaster.master][INFO] 2023-02-02 20:38:21,768: -PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:45001/
+[rosmaster.master][INFO] 2023-02-02 20:38:21,769: -SUB [/rosout] /rosout http://mrmunda-VirtualBox:45001/
+[rosmaster.master][INFO] 2023-02-02 20:38:21,769: -SERVICE [/rosout/get_loggers] /rosout rosrpc://mrmunda-VirtualBox:33041
+[rosmaster.master][INFO] 2023-02-02 20:38:21,769: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://mrmunda-VirtualBox:33041
+[rosmaster.main][INFO] 2023-02-02 20:38:21,786: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-02-02 20:38:21,786: stopping master...
+[rospy.core][INFO] 2023-02-02 20:38:21,786: signal_shutdown [atexit]

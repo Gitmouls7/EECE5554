@@ -1,0 +1,19 @@
+
+
+1675448669.469032177  Node Startup
+1675448868.297811037 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.189448, y=-0.009254])
+1675448868.313103098 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.195818, y=-0.031360])
+1675448868.329996584 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.202188, y=-0.031360])
+1675448868.349503030 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.208557, y=-0.031360])
+1675448868.364124214 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.214927, y=-0.031360])
+1675448868.380009924 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.221296, y=-0.031360])
+1675448868.397343656 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.227666, y=-0.031360])
+1675448868.410900527 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.234036, y=-0.031360])
+1675448868.425350026 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.240405, y=-0.031360])
+1675448868.441363067 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.246775, y=-0.031360])
+1675448868.457225272 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.253145, y=-0.031360])
+1675448868.472934706 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.259514, y=-0.031360])
+1675448868.488732348 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.265884, y=-0.031360])
+1675448868.504586503 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.272253, y=-0.031360])
+1675448868.521339737 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.278623, y=-0.031360])
+1675448868.537337300 WARN /turtlesim [/tmp/binarydeb/ros-noetic-turtlesim-0.10.2/src/turtle.cpp:169(Turtle::update)] [topics: /rosout, /turtle1/pose, /turtle1/color_sensor] Oh no! I hit the wall! (Clamping from [x=1.284993, y=-0.031360])

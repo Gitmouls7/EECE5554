@@ -1,0 +1,58 @@
+[rosmaster.main][INFO] 2023-02-03 13:24:29,246: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-02-03 13:24:29,246: Starting ROS Master Node
+[xmlrpc][INFO] 2023-02-03 13:24:29,247: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-02-03 13:24:29,255: Started XML-RPC server [http://mrmunda-VirtualBox:11311/]
+[xmlrpc][INFO] 2023-02-03 13:24:29,255: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-02-03 13:24:29,256: Master initialized: port[11311], uri[http://mrmunda-VirtualBox:11311/]
+[rosmaster.master][INFO] 2023-02-03 13:24:29,345: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 13:24:29,345: +PARAM [/roslaunch/uris/host_mrmunda_virtualbox__40005] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 13:24:29,408: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 13:24:29,408: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 13:24:29,468: +SERVICE [/rosout/get_loggers] /rosout http://mrmunda-VirtualBox:33887/
+[rosmaster.master][INFO] 2023-02-03 13:24:29,468: +SERVICE [/rosout/set_logger_level] /rosout http://mrmunda-VirtualBox:33887/
+[rosmaster.master][INFO] 2023-02-03 13:24:29,469: +PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:33887/
+[rosmaster.master][INFO] 2023-02-03 13:24:29,470: +SUB [/rosout] /rosout http://mrmunda-VirtualBox:33887/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,524: +PUB [/rosout] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,524: +SERVICE [/turtlesim/get_loggers] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,524: +SERVICE [/turtlesim/set_logger_level] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,525: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:33887/ ['http://mrmunda-VirtualBox:44451/']
+[rosmaster.master][INFO] 2023-02-03 13:25:19,527: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:33887/ ['http://mrmunda-VirtualBox:44451/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 13:25:19,535: +PARAM [/turtlesim/background_r] by /turtlesim
+[rosmaster.master][INFO] 2023-02-03 13:25:19,536: +PARAM [/turtlesim/background_g] by /turtlesim
+[rosmaster.master][INFO] 2023-02-03 13:25:19,536: +PARAM [/turtlesim/background_b] by /turtlesim
+[rosmaster.master][INFO] 2023-02-03 13:25:19,560: +SERVICE [/clear] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,560: +SERVICE [/reset] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,561: +SERVICE [/spawn] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,561: +SERVICE [/kill] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,561: +CACHEDPARAM [/rosout_disable_topics_generation] by /turtlesim
+[rosmaster.master][INFO] 2023-02-03 13:25:19,562: +SUB [/turtle1/cmd_vel] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,562: +PUB [/turtle1/pose] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,563: +PUB [/turtle1/color_sensor] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,563: +SERVICE [/turtle1/set_pen] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,563: +SERVICE [/turtle1/teleport_relative] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:25:19,563: +SERVICE [/turtle1/teleport_absolute] /turtlesim http://mrmunda-VirtualBox:44451/
+[rosmaster.master][INFO] 2023-02-03 13:26:42,834: +PUB [/rosout] /teleop_turtle http://mrmunda-VirtualBox:40531/
+[rosmaster.master][INFO] 2023-02-03 13:26:42,834: +SERVICE [/teleop_turtle/get_loggers] /teleop_turtle http://mrmunda-VirtualBox:40531/
+[rosmaster.master][INFO] 2023-02-03 13:26:42,834: +SERVICE [/teleop_turtle/set_logger_level] /teleop_turtle http://mrmunda-VirtualBox:40531/
+[rosmaster.master][INFO] 2023-02-03 13:26:42,835: +PUB [/turtle1/cmd_vel] /teleop_turtle http://mrmunda-VirtualBox:40531/
+[rosmaster.master][INFO] 2023-02-03 13:26:42,893: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:33887/ ['http://mrmunda-VirtualBox:44451/', 'http://mrmunda-VirtualBox:40531/']
+[rosmaster.master][INFO] 2023-02-03 13:26:42,894: publisherUpdate[/turtle1/cmd_vel] -> http://mrmunda-VirtualBox:44451/ ['http://mrmunda-VirtualBox:40531/']
+[rosmaster.master][INFO] 2023-02-03 13:26:42,894: publisherUpdate[/turtle1/cmd_vel] -> http://mrmunda-VirtualBox:44451/ ['http://mrmunda-VirtualBox:40531/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 13:26:42,895: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:33887/ ['http://mrmunda-VirtualBox:44451/', 'http://mrmunda-VirtualBox:40531/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 13:27:48,298: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-02-03 13:38:08,433: -PUB [/rosout] /teleop_turtle http://mrmunda-VirtualBox:40531/
+[rosmaster.master][INFO] 2023-02-03 13:38:08,434: -PUB [/turtle1/cmd_vel] /teleop_turtle http://mrmunda-VirtualBox:40531/
+[rosmaster.master][INFO] 2023-02-03 13:38:08,435: -SERVICE [/teleop_turtle/get_loggers] /teleop_turtle rosrpc://mrmunda-VirtualBox:32861
+[rosmaster.master][INFO] 2023-02-03 13:38:08,435: -SERVICE [/teleop_turtle/set_logger_level] /teleop_turtle rosrpc://mrmunda-VirtualBox:32861
+[rosmaster.master][INFO] 2023-02-03 13:38:08,474: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:33887/ ['http://mrmunda-VirtualBox:44451/']
+[rosmaster.master][INFO] 2023-02-03 13:38:08,475: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:33887/ ['http://mrmunda-VirtualBox:44451/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 13:38:08,475: publisherUpdate[/turtle1/cmd_vel] -> http://mrmunda-VirtualBox:44451/ []
+[rosmaster.master][INFO] 2023-02-03 13:38:08,476: publisherUpdate[/turtle1/cmd_vel] -> http://mrmunda-VirtualBox:44451/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 13:39:17,892: -PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:33887/
+[rosmaster.master][INFO] 2023-02-03 13:39:17,892: -SUB [/rosout] /rosout http://mrmunda-VirtualBox:33887/
+[rosmaster.master][INFO] 2023-02-03 13:39:17,893: -SERVICE [/rosout/get_loggers] /rosout rosrpc://mrmunda-VirtualBox:33441
+[rosmaster.master][INFO] 2023-02-03 13:39:17,893: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://mrmunda-VirtualBox:33441
+[rosmaster.master][INFO] 2023-02-03 13:39:17,893: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-02-03 13:39:17,971: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-02-03 13:39:17,971: stopping master...
+[rospy.core][INFO] 2023-02-03 13:39:17,972: signal_shutdown [atexit]

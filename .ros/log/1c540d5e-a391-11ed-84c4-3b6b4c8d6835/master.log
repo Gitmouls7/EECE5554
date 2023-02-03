@@ -1,0 +1,43 @@
+[rosmaster.main][INFO] 2023-02-03 02:05:16,275: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-02-03 02:05:16,275: Starting ROS Master Node
+[xmlrpc][INFO] 2023-02-03 02:05:16,275: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-02-03 02:05:16,276: Started XML-RPC server [http://mrmunda-VirtualBox:11311/]
+[xmlrpc][INFO] 2023-02-03 02:05:16,276: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-02-03 02:05:16,276: Master initialized: port[11311], uri[http://mrmunda-VirtualBox:11311/]
+[rosmaster.master][INFO] 2023-02-03 02:05:16,306: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 02:05:16,306: +PARAM [/roslaunch/uris/host_mrmunda_virtualbox__34983] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 02:05:16,333: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 02:05:16,333: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-02-03 02:05:16,339: +SERVICE [/rosout/get_loggers] /rosout http://mrmunda-VirtualBox:46705/
+[rosmaster.master][INFO] 2023-02-03 02:05:16,339: +SERVICE [/rosout/set_logger_level] /rosout http://mrmunda-VirtualBox:46705/
+[rosmaster.master][INFO] 2023-02-03 02:05:16,340: +PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:46705/
+[rosmaster.master][INFO] 2023-02-03 02:05:16,341: +SUB [/rosout] /rosout http://mrmunda-VirtualBox:46705/
+[rosmaster.master][INFO] 2023-02-03 02:05:21,332: +PUB [/rosout] /rqt_gui_py_node_4658 http://mrmunda-VirtualBox:40671/
+[rosmaster.master][INFO] 2023-02-03 02:05:21,334: +SERVICE [/rqt_gui_py_node_4658/get_loggers] /rqt_gui_py_node_4658 http://mrmunda-VirtualBox:40671/
+[rosmaster.master][INFO] 2023-02-03 02:05:21,334: +SERVICE [/rqt_gui_py_node_4658/set_logger_level] /rqt_gui_py_node_4658 http://mrmunda-VirtualBox:40671/
+[rosmaster.master][INFO] 2023-02-03 02:05:21,346: +SUB [/statistics] /rqt_gui_py_node_4658 http://mrmunda-VirtualBox:40671/
+[rosmaster.master][INFO] 2023-02-03 02:05:21,418: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ ['http://mrmunda-VirtualBox:40671/']
+[rosmaster.master][INFO] 2023-02-03 02:05:21,421: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ ['http://mrmunda-VirtualBox:40671/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 02:07:26,242: -SUB [/statistics] /rqt_gui_py_node_4658 http://mrmunda-VirtualBox:40671/
+[rosmaster.master][INFO] 2023-02-03 02:07:26,242: -PUB [/rosout] /rqt_gui_py_node_4658 http://mrmunda-VirtualBox:40671/
+[rosmaster.master][INFO] 2023-02-03 02:07:26,242: -SERVICE [/rqt_gui_py_node_4658/get_loggers] /rqt_gui_py_node_4658 rosrpc://mrmunda-VirtualBox:41627
+[rosmaster.master][INFO] 2023-02-03 02:07:26,242: -SERVICE [/rqt_gui_py_node_4658/set_logger_level] /rqt_gui_py_node_4658 rosrpc://mrmunda-VirtualBox:41627
+[rosmaster.master][INFO] 2023-02-03 02:07:26,271: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ []
+[rosmaster.master][INFO] 2023-02-03 02:07:26,272: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 02:08:12,171: +PUB [/rosout] /rostopic_4759_1675408092147 http://mrmunda-VirtualBox:44781/
+[rosmaster.master][INFO] 2023-02-03 02:08:12,173: +SERVICE [/rostopic_4759_1675408092147/get_loggers] /rostopic_4759_1675408092147 http://mrmunda-VirtualBox:44781/
+[rosmaster.master][INFO] 2023-02-03 02:08:12,173: +SERVICE [/rostopic_4759_1675408092147/set_logger_level] /rostopic_4759_1675408092147 http://mrmunda-VirtualBox:44781/
+[rosmaster.master][INFO] 2023-02-03 02:08:12,177: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ ['http://mrmunda-VirtualBox:44781/']
+[rosmaster.master][INFO] 2023-02-03 02:08:12,178: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ ['http://mrmunda-VirtualBox:44781/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 02:10:51,620: +PUB [/rosout] /rostopic_6409_1675408251601 http://mrmunda-VirtualBox:43855/
+[rosmaster.master][INFO] 2023-02-03 02:10:51,622: +SERVICE [/rostopic_6409_1675408251601/get_loggers] /rostopic_6409_1675408251601 http://mrmunda-VirtualBox:43855/
+[rosmaster.master][INFO] 2023-02-03 02:10:51,622: +SERVICE [/rostopic_6409_1675408251601/set_logger_level] /rostopic_6409_1675408251601 http://mrmunda-VirtualBox:43855/
+[rosmaster.master][INFO] 2023-02-03 02:10:51,623: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ ['http://mrmunda-VirtualBox:44781/', 'http://mrmunda-VirtualBox:43855/']
+[rosmaster.master][INFO] 2023-02-03 02:10:51,624: publisherUpdate[/rosout] -> http://mrmunda-VirtualBox:46705/ ['http://mrmunda-VirtualBox:44781/', 'http://mrmunda-VirtualBox:43855/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-02-03 02:13:21,810: -PUB [/rosout_agg] /rosout http://mrmunda-VirtualBox:46705/
+[rosmaster.master][INFO] 2023-02-03 02:13:21,810: -SUB [/rosout] /rosout http://mrmunda-VirtualBox:46705/
+[rosmaster.master][INFO] 2023-02-03 02:13:21,810: -SERVICE [/rosout/get_loggers] /rosout rosrpc://mrmunda-VirtualBox:47711
+[rosmaster.master][INFO] 2023-02-03 02:13:21,811: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://mrmunda-VirtualBox:47711
+[rosmaster.main][INFO] 2023-02-03 02:13:21,910: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-02-03 02:13:21,910: stopping master...
+[rospy.core][INFO] 2023-02-03 02:13:21,910: signal_shutdown [atexit]
